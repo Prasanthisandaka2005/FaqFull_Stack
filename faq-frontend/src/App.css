@@ -1,0 +1,17 @@
+.faq {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  overflow: hidden;
+  margin-top: 2rem;
+  margin-bottom: 5rem;
+}
+
+.select {
+  align-self: flex-end;
+  margin-bottom: 1rem;
+}
+
+.list {
+  padding: 0.5rem;
+}
